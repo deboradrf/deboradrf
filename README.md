@@ -1,11 +1,11 @@
-### <Bem-vindo(a) ao meu perfil> 😄
+## <Bem-vindo(a) ao meu perfil> 😄
 
 🛠️ Atualmente estou em transição de carreira para a área de Desenvolvimento; </br>
 📚 Sempre em busca de mais conhecimento e aprendizagem;
 
 ![Debora GitHub stats](https://github-readme-stats.vercel.app/api?username=deboradrf&show_icons=true&theme=jolly)
 
-# <Tecnologias:>
+### Tecnologias:
 
 <div style="display: inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
