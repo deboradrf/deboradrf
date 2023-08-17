@@ -1,7 +1,6 @@
 ## <Bem-vindo(a) ao meu perfil> 😄
 
-🛠️ Atualmente estou em transição de carreira para a área de Desenvolvimento; </br>
-📚 Sempre em busca de mais conhecimento e aprendizagem;
+📚 Estudande de Análise e Desenvolvimento de Sistemas na PUC Minas; Sempre em busca de mais conhecimento e aprendizagem;
 
 ![Debora GitHub stats](https://github-readme-stats.vercel.app/api?username=deboradrf&show_icons=true&theme=jolly)
 
