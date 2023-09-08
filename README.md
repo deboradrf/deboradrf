@@ -1,6 +1,6 @@
 ## <Bem-vindo(a) ao meu perfil> 😄
 
-📚 Estudande de Análise e Desenvolvimento de Sistemas na PUC Minas;
+📚 Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas;
 
 ![Debora GitHub stats](https://github-readme-stats.vercel.app/api?username=deboradrf&show_icons=true&theme=jolly)
 
