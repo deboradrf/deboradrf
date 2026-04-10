@@ -1,6 +1,6 @@
 ## <Bem-vindo(a) ao meu perfil> 😄
 
-📚 Formada em Análise e Desenvolvimento de Sistemas, atuo no desenvolvimento de sistemas web, criando soluções funcionais e intuitivas com foco em qualidade e experiência do usuário.
+📚 Profissional formada em Análise e Desenvolvimento de Sistemas, atuo criando soluções funcionais e intuitivas com foco em qualidade e experiência do usuário.
 
 #### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborapfonseca/)
